@@ -1,6 +1,6 @@
 
 <p align="center"> 
-  Visitor count<br>
+  Have a good time!<br>
   <img src="https://profile-counter.glitch.me/airmomo/count.svg" />
 </p>
 
