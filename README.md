@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="./assets/hello.png" width="400px" height="400px" style="margin-top: -150px; margin-bottom: -150px"/>
+  <img src="./assets/hello-short.png" width="400px" height="200px"/>
 </p>
 
 ### 想对你说 / For you:
