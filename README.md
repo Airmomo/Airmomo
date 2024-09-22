@@ -4,7 +4,7 @@
 </p>
 
 <p align="center"> 
-  Have a good time!<br>
+  I hope that in this increasingly convenient era, everyone can have more time to love themselves.<br>
   <img src="https://profile-counter.glitch.me/airmomo/count.svg" />
 </p>
 
