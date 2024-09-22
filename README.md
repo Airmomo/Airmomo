@@ -21,6 +21,8 @@ Hi dear ! I am Airmomo, you can also call me Momo. In the busy and fast-paced li
 
 - <img align="left" alt="蚝油菜花 | WeChat" width="20px" style="margin-right: 0px" src="./assets/wecaht.png" />微信订阅号 - @蚝油菜花
 
+- <img align="left" alt="蚝油菜花 | Little Red Book" width="20px" style="margin-right: 0px" src="./assets/xiaohongshu.png" />小红书 - <a href="https://www.xiaohongshu.com/user/profile/5c349b14000000000700d576">@蚝油菜花</a>
+
 - <img align="left" alt="蚝油菜花 | Zhihu" width="20px" style="margin-right: 0px" src="./assets/zhihu.png"/>知乎 - <a href="https://www.zhihu.com/people/sakura-10-48-81">@蚝油菜花</a>
 
 <!--
@@ -28,8 +30,6 @@ Hi dear ! I am Airmomo, you can also call me Momo. In the busy and fast-paced li
       <img align="left" alt="蚝油菜花花 | Bilibili" width="20px" style="margin-right: 0px" src="./assets/bilibili.png" />
     </a>
 -->
-
-- <img align="left" alt="蚝油菜花 | Little Red Book" width="20px" style="margin-right: 0px" src="./assets/xiaohongshu.png" />小红书 - <a href="https://www.xiaohongshu.com/user/profile/5c349b14000000000700d576">@蚝油菜花</a>
 
 - <img align="left" alt="Airmomo | X" width="20px" style="margin-right: 0px" src="./assets/x-black.png"/>X - <a href="https://x.com/sakura69660220">@Airmomo</a>
 
