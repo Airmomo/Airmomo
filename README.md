@@ -19,9 +19,9 @@ Hi dear ! I am Airmomo, you can also call me Momo. In the busy and fast-paced li
 
 😊 如果你也关注大模型发展现状，或对大模型应用开发非常感兴趣，很期待你的关注和私信，我会不定期分享自己的想法和开源实例【计划中】。
 
-- <img align="" alt="蚝油菜花 | WeChat" width="20px" style="margin-right: 10px" src="./assets/wecaht.png" /> 订阅号 @蚝油菜花<span style="margin-left: 50px;margin-right: 50px"><<< SYNC >>></span><img align="" alt="蚝油菜花 | Zhihu" width="20px" style="margin-right: 10px" src="./assets/zhihu.png"/><a href="https://www.zhihu.com/people/sakura-10-48-81"> @蚝油菜花</a>
+- <img align="" alt="蚝油菜花 | WeChat" width="20px" style="margin-right: 10px" src="./assets/wecaht.png" /> 订阅号 @蚝油菜花<span style="margin-left: 50px;margin-right: 50px"> < < < SYNC > > > </span><img align="" alt="蚝油菜花 | Zhihu" width="20px" style="margin-right: 10px" src="./assets/zhihu.png"/><a href="https://www.zhihu.com/people/sakura-10-48-81"> @蚝油菜花</a>
 
-- <img align="" alt="蚝油菜花 | Little Red Book" width="20px" style="margin-right: 10px" src="./assets/xiaohongshu.png" /><a href="https://www.xiaohongshu.com/user/profile/5c349b14000000000700d576"> @蚝油菜花</a><span style="margin-left: 115px;margin-right: 50px"><<< SYNC >>></span><img align="" alt="Airmomo | X" width="20px" style="margin-right: 10px" src="./assets/x-black.png"/><a href="https://x.com/sakura69660220"> @Airmomo</a>
+- <img align="" alt="蚝油菜花 | Little Red Book" width="20px" style="margin-right: 10px" src="./assets/xiaohongshu.png" /><a href="https://www.xiaohongshu.com/user/profile/5c349b14000000000700d576"> @蚝油菜花</a><span style="margin-left: 115px;margin-right: 50px"> < < < SYNC > > > </span><img align="" alt="Airmomo | X" width="20px" style="margin-right: 10px" src="./assets/x-black.png"/><a href="https://x.com/sakura69660220"> @Airmomo</a>
 
 - 💬 Ask me about anything [here](https://github.com/airmomo/airmomo/issues)
 
