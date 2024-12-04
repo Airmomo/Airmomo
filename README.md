@@ -15,6 +15,16 @@ Hi dear ! I am Airmomo, you can also call me Momo. In the busy and fast-paced li
   ❤️ 我希望在这个无处都逐渐便捷的年代，每一个人都能多一些爱自己的时间。 ❤️
 </p>
 
+### 如果你对我感兴趣 / Contact me! Link me! Invite me! Cooperate with me!
+
+Please note your name and idea.
+
+- <img align="" alt="蚝油菜花 | WeChat" width="20px" style="margin-right:px" src="./assets/wecaht.png" /> lt87876
+
+- 📮 951078324@qq.com
+
+😁 Welcome friends from all corners of the world! Let's do something fun!
+
 ### 加油！/ Fighting！
 
 | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=airmomo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=airmomo&layout=compact&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
