@@ -21,8 +21,6 @@ Please note your name and idea.
 
 - <img align="" alt="蚝油菜花 | WeChat" width="20px" style="margin-right:px" src="./assets/wecaht.png" /> lt87876
 
-- 📮 951078324@qq.com
-
 😁 Welcome friends from all corners of the world! Let's do something fun!
 
 ### 加油！/ Fighting！
