@@ -19,9 +19,13 @@ Hi dear ! I am Airmomo, you can also call me Momo. In the busy and fast-paced li
 
 Please note your name and idea.
 
-- <img align="" alt="蚝油菜花 | WeChat" width="20px" style="margin-right:px" src="./assets/wecaht.png" /> lt87876
+- <img align="" alt="蚝油菜花 | WeChat" width="20px" style="margin-right:px" src="./assets/wecaht.png" /> 微信号：**lt87876** (注意备注来意)
 
 😁 Welcome friends from all corners of the world! Let's do something fun!
+
+❤️ 如果你也关注 AI 的发展现状，且对 AI 应用开发非常感兴趣，我会每日分享大模型与 AI 领域的最新应用和热点信息，提供开源实例和实用教程，帮助你快速上手AI技术，欢迎关注我哦！
+
+- <img align="" alt="蚝油菜花 | WeChat" width="20px" style="margin-right:px" src="./assets/wecaht.png" /> 微信公众号 ｜ 搜一搜：**蚝油菜花**
 
 ### 加油！/ Fighting！
 
